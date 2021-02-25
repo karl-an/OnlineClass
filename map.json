@@ -160,9 +160,9 @@
                  "value":"Lecturehall"
                 }, 
                 {
-                 "name":"jitsiTrigger: onaction",
+                 "name":"jitsiTrigger",
                  "type":"string",
-                 "value":"trigger"
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
